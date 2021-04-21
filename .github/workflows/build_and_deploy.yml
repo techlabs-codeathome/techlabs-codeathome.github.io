@@ -71,7 +71,7 @@ jobs:
 
       - name: Copy frontend build to deploy repo
         run: |
-          cp -r deploy/.git build/
+          cp -r deploy/.git deploy/CNAME build/
 
       - name: Configure git
         run: |
