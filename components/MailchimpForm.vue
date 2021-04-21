@@ -45,7 +45,7 @@
             <div>
               <span
                 >I agree to subscribe to the newsletter and receive emails from
-                TechLabs Berlin. I can unsubscribe at any time.</span
+                TechLabs Codeathome. I can unsubscribe at any time.</span
               >
               <p v-if="errorConsent" class="text-sm text-pink-600">
                 You need to agree, otherwise we cannot add you to our list.

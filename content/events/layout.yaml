@@ -1,0 +1,33 @@
+---
+title: Sample Event
+date: '2021-04-21T13:30:00+02:00'
+description: |
+  Use this as an Example to build Events
+meetings:
+  - title: 'Title'
+    description: 'Description'
+    type: meeting
+    url: https://google.com
+  - title: Game
+    description: Game Example
+    type: game
+    url: https://google.com
+forms:
+  - title: 'Typeform'
+    type: form
+    description: Please leave your feedback!
+    url: ttps://google.com
+showResources: true
+resources:
+  - title: 'Slides'
+    description: Description
+    type: slides
+    url: https://google.com
+  - title: 'Recording'
+    description: Video
+    type: video
+    url: https://google.com
+  - title: Link
+    description: Description
+    type: link
+    url: https://google.com
