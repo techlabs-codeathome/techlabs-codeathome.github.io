@@ -1,0 +1,23 @@
+---
+title: "Social Event #2"
+date: "2021-11-01T19:30:00+02:00"
+is_public: true
+description: |
+  Christoph Eilenz invites you to the first Web Development Live-Coding event.
+  Here, you will have the opportunity to code along with the mentor and get a first glimpse on how to start off a new coding project.
+meetings:
+  - title: 'WebDev Live-Coding Event #1'
+    description: 'The main room where we will meet.'
+    type: meeting
+    url: https://us02web.zoom.us/j/86459570010?pwd=cHZYOXF5amVzWHV6WU5GdlBPc3BvUT09
+
+forms: 
+  #[]
+- title: Feedback
+  description: Please leave feedback for our first live-coding event!
+  url: https://techlabsorg.typeform.com/to/Hv5QT1eR
+resources:
+  #[]
+  - title: Call Recording
+    type: video
+    url: https://drive.google.com/file/d/1uzQQ5-hGRSGskheym8H6SIwSW2rRYTq-/view?usp=sharing

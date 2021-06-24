@@ -1,0 +1,14 @@
+---
+title: Buddies Group Allocation
+deadline: 2021-09-12T23:59:00+02:00
+type: checkpoint
+description: |
+  Please fill out the Buddies Group form until the end of sunday
+
+todos:
+  - name: Buddies Group From
+    resources:
+      - title: Form
+        type: form
+        description: "Use this form to be assigned to a Buddies Group"
+        url: https://techlabsorg.typeform.com/to/m9cEYlR6

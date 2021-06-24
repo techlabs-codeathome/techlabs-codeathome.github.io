@@ -1,13 +1,23 @@
+const LOCATION = 'cah'
+
 export default {
+  env: {
+    NUXT_APP_LOCATION: LOCATION,
+  },
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
   generate: {
     fallback: true,
   },
 
+  // uncomment the lines below if you are deploying to GitHub pages
+  // router: {
+  //   base: '/radar/',
+  // },
+
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - Radar | TechLabs Codeathome',
+    titleTemplate: '%s | TechLabs #codeathome Bootcamp',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -60,7 +70,9 @@ export default {
   },
 
   // Content module configuration: https://go.nuxtjs.dev/config-content
-  content: {},
+  content: {
+    dir: `content-${LOCATION}`,
+  },
 
   // https://www.npmjs.com/package/@nuxtjs/markdownit
   markdownit: {
