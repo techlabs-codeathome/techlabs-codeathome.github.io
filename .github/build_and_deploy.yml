@@ -1,17 +1,28 @@
-name: Radar Deployment
+# This is a basic workflow to help you get started with Actions
 
+name: CI
+
+# Controls when the action will run. 
 on:
+  # Triggers the workflow on push or pull request events but only for the main branch
   push:
-    branches:
-      - master
+    branches: [ main ]
 
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
+  # This workflow contains a single job called "build"
   build:
     name: Build Release
+    # The type of runner that the job will run on
     runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
 
       - uses: actions/setup-node@v2-beta
         with:
@@ -23,15 +34,15 @@ jobs:
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
           restore-keys: |
             ${{ runner.os }}-node-
-
       - name: npm install
         run: npm install
 
       - name: nuxt generate
         run: npm run generate
-        env:
-          BASE_URL: ${{ secrets.BASE_URL }}
-          MAILCHIMP_API_KEY: ${{ secrets.MAILCHIMP_API_KEY }}
+        #env:
+          #BASE_URL: ${{ secrets.BASE_URL }}
+          #MAILCHIMP_API_KEY: ${{ secrets.MAILCHIMP_API_KEY }}
+          #ONESIGNAL_APP_ID: ${{ secrets.ONESIGNAL_APP_ID }}
 
       - name: Upload build
         uses: actions/upload-artifact@v2
@@ -59,13 +70,11 @@ jobs:
 
       - name: Copy frontend build to deploy repo
         run: |
-          cp -r deploy/.git deploy/CNAME deploy/README.md build/
-
+          cp -r deploy/.git deploy/CNAME build/
       - name: Configure git
         run: |
-          git config --global user.email "berlin@techlabs.org"
-          git config --global user.name "TechLabs Berlin GitHub Workflow"
-
+          git config --global user.email "codeathome@techlabs.org"
+          git config --global user.name "Codeathome GitHub Workflow"
       - name: Commit deploy repo
         run: |
           git add --all --force .
