@@ -7,27 +7,27 @@ timeline:
       You join the community and get access to our learning platform edyoucated.
 
       We present our four tracks, you choose one and create your personal TechLabs journey based on your previous knowledge.
-    startDate: 2021/09/06
-    endDate: 2021/09/12
+    startDate: 2021/08/30
+    endDate: 2021/09/05
 
   - title: Learning Phase
     description: |
       You work through your track on edyoucated and become a master of your class.
 
       We organize social events regularly so that you can connect with fellow Techies, share your insights and work together on difficulties.
-    startDate: 2021/09/13
-    endDate: 2021/10/10
+    startDate: 2021/09/06
+    endDate: 2021/10/03
 
   - title: Project Phase
     description: |
       This is prime time! You imagine and implement a prototype in a project of your own.
 
       You team up as a group of 4-6 Techies and work together to create something big. Experienced mentors will be on your side for support.
-    startDate: 2021/10/11
-    endDate: 2021/11/07
+    startDate: 2021/10/04
+    endDate: 2021/10/31
 
   - title: Closing Week
     description: |
       You finish up your prototype and submit the final result to us. We organize a closing ceremony where you will be given your Digital Shaper Certificate.
-    startDate: 2021/11/08
-    endDate: 2021/11/14
+    startDate: 2021/11/01
+    endDate: 2021/11/07

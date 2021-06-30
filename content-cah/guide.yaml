@@ -1,0 +1,174 @@
+---
+sections:
+  - title: Online Learning
+    questions:
+    - title: Introduction
+      content: |
+        You will study your tracks on our online platform edyoucated. For each of the four tracks ([Data Science](https://www.techlabs.org/dataScience) with Python, [Artificial Intelligence](https://www.techlabs.org/ai)*, [Web Development](https://www.techlabs.org/web) and [UX Design](https://www.techlabs.org/ux)) our curriculum experts carefully compiled the best online learning resources available in various formats (online courses from platforms like Coursera, edX or Udemy as well as blog articles and practice material). These resources are integrated into a sequentially ordered learning path. Our curriculum team makes sure that our tracks are updated and revised continuously so that we always have the highest quality learning material available. You can do as many tracks as you want if you have enough time to complete them! 
+        *please only choose the AI track of you have prior knowledge in Data Science and Python.
+    - title: Your first steps in edyoucated
+      content: |
+        Within the Onboarding process you will receive an invitation link to our learning platform edyoucated. You have to use this invitation link! Please do not registrate yourself without using this link.
+
+        1. Follow the edyoucated Invitation Link. You have to use the Invitation Link otherwise you will not be part of our #codeathome Bootcamp Team in edyoucated!
+        2. Create a new account (please always use the same email you used for the application and for slack). If you already have an edyoucated account you can procced with step 5.
+        3. Enter your E-mail address and a password.
+        4. Verify your E-mail address.
+        5. Log in with your E-mail address.
+        6. Choose your TechLabs location to be **#codeathome Bootcamp**.
+        7. Select your track and start learning:
+        - **TechLabs | AI | 2021**
+        - **TechLabs | Data Science Python | 2021**
+        - **TechLabs | UX | 2021**
+        - **TechLabs | Web Development | 2021**
+
+        Please make sure that you are always in the organization 'TechLabs' otherwise you will not be able to see your progress.
+    - title: '1.1 Data Science with Python 📊'
+      content: |
+        The  **TechLabs | Data Science Python | 2021** is designed to teach you tech skills in the area of Data Science. As the name reveals, you will use the Python programming language in this Bootcamp. You can sign up for this track without any prior coding experience.
+        
+        We will cover the following topics:
+        - An introduction into Python and intermediate Python skills
+        - Python skills for Data Science like how to build functions, basic data manipulation and visualization
+        - Importing and cleaning data
+        - Advanced data manipulation and visualization
+        - Supervised and unsupervised machine learning models
+        - Regression and clustering problems
+
+        Depending on the skills that you already have, you may skip some materials.
+        We don't offer Data Science with R in our Bootcamp.
+    - title: '1.2 Artificial Intelligence (AI) 🤖' 
+      content: |
+        The **TechLabs | AI | 2021** is an advanced course which is designed to teach you tech skills in the area of Artificial Intelligence. You will use the Python programming language in this Bootcamp.
+        
+        We will cover the following topics:
+        - Short Python recap
+        - Short Machine Learning recap
+        - Idea behind neutral networks and how they learn
+        - Convolutional Neural Networks
+        - Multi label classification
+        - Neutral networks for natural language processing (NLP)
+        - Recurrent Neural Networks
+        - Machine Learning strategy
+
+        Depending on the skills you already have, you can also skip some materials, for example the recaps.
+    - title: '1.3 Web Development 💻'
+      content: |
+        Our **TechLabs | Web Development | 2021** teaches you the basics of frontend (everything you can see on a webpage) and backend (databases, server..) development. 
+
+        We will cover the following topics:	
+        - HTML
+        - CSS
+        - JavaScript
+        - React
+        - Node
+        - Express
+        - Docker
+
+        ...and a lot more! Keep in mind that the bootcamp is designed to give you a kickstart into Web Development. If there is any topic you are interested in, feel free to take the time and dive deeper into the details of it. You may also skip some chapters if you already have some experience in one or more of the covered topics.
+    - title: '1.4 User Experience 👩🏼‍💻'
+      content: |
+        In our **TechLabs | User Experience | 2021** track, you will discover the key values for designing an enjoyable user experience. You get to learn with practical examples and use the opportunity to build a personal tech portfolio.
+
+        We will cover the following topics:
+        - User Research
+        - HTML
+        - CSS
+        - Website Building
+
+  - title: Global Community
+    questions:
+    - title: Introduction
+      content: |
+        Online learning does not unfold its full potential in isolation. We all need a social context in which we can share what we have learned and help each other out. Furthermore, we need the dynamics of a community to make sure that everyone stays on track. To keep you motivated, we will invite you into our global community and connect you with like-minded people. Apart from offering you a platform to exchange your learning experiences and discuss difficulties, we also host various online meeting formats and events during the program.
+        We highly recommend to use our community and be an active part of it.
+
+        Stay up to date with our [**Semester Radar Timeline**](https://codeathome.techlabs.org/timeline)! All events, milestones, presentations and a FAQ can be found here:
+    
+    - title: '2.1 Slack 🗣'
+      content: |
+        Slack is the central communication tool of the #codeathome Bootcamp. No matter if you want to talk to your fellow learners or reach out to the management team - Slack is the fastest way to connect.
+
+        Don't worry if you haven't worked with Slack before we have prepared a short [**Slack Onboarding Guide**](https://www.notion.so/Slack-Onboarding-Guide-f992eed29a93487ba295cdaefd8ae1a3) for you.
+
+        If you have a question for example for our mentors, please always write them in our slack channels, do not write our mentors private messages. We really believe in our community so please use it.
+        If you have a question use the ❓-emoji. 
+        A mentor will keep an eye on your question 👀. 
+        If your question is answered we will mark it as done ✅.
+        
+        **Channel structure:**
+        To ensure that you don't get lost in our Workspace, we have listed the different channels which we will use during the #codeathome Bootcamp and explained their purpose here.
+        Our channels for everyone: 
+        - **#codeathome_community**
+          The community channel is intended to help you get to know us and each other. For example, you will post your introductions in this channel. 
+        - **#codeathome_announcements**
+          In this channel, we will announce events and remind you of tasks and deadlines during the #codeathome Bootcamp.
+        - **#codeathome_allhands**
+          We will use this channel to inform you about relevant events and job opportunities within and outside of the TechLabs community.
+
+        **Our channels for the different tracks:**
+        We will invite you to one of our four track channels based on the main track your studying.  You can use it to ask for advice, discuss difficulties or just update each other about your learning progress. This is the channel where you can get in contact with your mentors.
+        - **#codeathome_datascience**
+        - **#codeathome_webdevelopment**
+        - **#codeathome_ai**
+        - **#codeathome_uxdesign**
+
+        **Private Track-Study Buddies Channel:**
+        Further you will be invited to a private channel where you can meet with your Track-Study Buddies to learn together and work on your project later in the program.
+        - e.g. **#codeathome_studybuddies-ux-1**
+    
+    - title: '2.2 Community Motivation 💪'
+      content: |
+        To keep you on track, we will give you some extra motivation boosts at the start of every week. In our Monday Motivation posts, you will get a glimpse at the impacts you can have by using your newly acquired tech skills. Be excited about inspiring founders, exciting documentaries, cool projects to participate in and much more! 
+        To give you a little incentive to learn a bit more during the week, we will publish a ranking with the most hard-working techies of the week every Friday. If you are one of the most diligent students three times in a row, we have prepared a little surprise for you. So stay engaged!
+
+    - title: '2.3 Weekly Events 🗓️'
+      content:  |
+        To get some extra inspiration, we organize weekly live events with different speakers & friends from the TechLabs Community. These events are methodically and are meant to support your personal development and growth beyond coding. We also offer coding events which are meant to support you in your learning process and make it more engaging. All topics and speakers will be announced in Slack and on our Semester Radar Timeline bit by bit. Don't worry if you cannot attend, we record ome of the sessions and share it afterwards.
+
+    - title: '2.4 TrackStudy-Buddy Program 👯'
+      content: |
+        You feel isolated at home? You need some extra motivation? You can't find a mistake? We have a TrackStudy-Buddies program for those issues!
+
+        You will get to know your TrackStudy-Buddies within the first week. Therefore, you will be invited into a private slack channel only for you and your group right at the start of the Bootcamp. Your TrackStudy-Buddies are your online learning group for the next 9 month. You can use your private Slack channel to exchange information regularly, and we to work on the project together later in the program even though you all live on the other side of the world - how cool is that! 
+        Please note, that you have to actively engage with your group, otherwise your participation in our program is in danger. If you have any issues, please don't hesitate and reach out to us via Slack.
+  
+  - title: Project
+    questions:
+    - title: Introduction
+      content: |
+        The overarching goal of the learning component is to enable our participants to use their acquired tech skills for good while tackling (global) challenges. Therefore, we ask you to use your newly acquired skills in a group project: Within a small team*, you will develop a first solution approach for a self-defined issue.
+
+        Check out our **[#codeathome Project Guide](https://www.notion.so/codeathome-Project-Guide-119f2e2ac19842569bf6ca862abfe3cd)** for more information, important dates, deadlines and links. 
+        *We will pair you with 3-4 other Techies studying the same track (TrackStudy-Buddies), this group will also become your project group. You can't submit a project alone as it is a team project.
+      
+    - title: '3.1 Ideation Process 💡'
+      content: |
+        After three weeks of diligent learning, you are ready to start using your new tech skills for good and create a real impact! In our ideation phase in week four, you and your team mates (TrackStudy-Buddies) will come up with a project idea. We will give you an overarching project subject that will serve you as an orientation. 
+
+        Also, don't miss out on our ideation workshop! We will present different methods and tools supporting you to come up with ideas and to pick the one you want to work on during the project phase! Furthermore, we will provide you with all information you need to successfully register for our #codeathome project with your group. The deadline for your project registration will be announced in our Slack channel and on the Semester Radar.
+        The date will be announced in our Slack channels.
+      
+    - title: '3.2 Project Phase: Tech for Good 🚀'
+      content: |
+        You and your team will start working on your project from week sixth of the program onwards. Tackle the challenge by applying your newly developed tech skills to find a creative solution until the end of the bootcamp. In order to receive your #codeathome Bootcamp certificate, you need to submit a solution with your team by the end of the Bootcamp. 
+
+        More information on the project phase, overarching project subject, team formation, and the submission of project work will be announced on Slack and on the Semester Radar!
+
+        Check out our **[#codeathome Project Guide](https://www.notion.so/codeathome-Project-Guide-119f2e2ac19842569bf6ca862abfe3cd)**
+  
+  - title: Certificate
+    questions: 
+    - title: Finishing the Bootcamp
+      content: |
+        You and your team will start working on your project from week sixth of the program onwards. Tackle the challenge by applying your newly developed tech skills to find a creative solution until the end of the bootcamp. In order to receive your #codeathome Bootcamp certificate, you need to submit a solution with your team by the end of the Bootcamp.
+
+  - title: About TechLabs and the remote program team
+    questions: 
+    - title: World of Digital Shapers
+      content: |
+        We at TechLabs dream of a world full of Digital Shapers: Individuals who use technological tools to approach the challenges of our time with a digital and entrepreneurial mindset.
+
+        Learn more about us and our vision on our website: [https://www.techlabs.org/about](https://www.techlabs.org/about)
+
+        You are also dreaming of a world of full digital shapers and are passionate about tech? As a TechLabs Management-Team member, you can actively support others in learning tech. Reach out and join the TechLabs family! Check out our [Open Positions](https://www.notion.so/Volunteer-at-TechLabs-9004464ef2a0420cb587aab9ba03037d).
