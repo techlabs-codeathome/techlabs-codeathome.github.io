@@ -1,7 +1,13 @@
 # dates: always start the week on a Monday and end it on a Sunday
 ---
-startsAt: 1
+startsAt: 0
 timeline:
+  - title: Registration
+    description: |
+      Apply for the #codeathome Bootcamp between August 1st 2021 and August 8th 2021.
+    startDate: 2021/08/02
+    endDate: 2021/08/08
+
   - title: Kick-Off Week
     description: |
       You join the community and get access to our learning platform edyoucated.
@@ -29,5 +35,5 @@ timeline:
   - title: Closing Week
     description: |
       You finish up your prototype and submit the final result to us. We organize a closing ceremony where you will be given your Digital Shaper Certificate.
-    startDate: 2021/11/01
-    endDate: 2021/11/07
+    startDate: 2021/11/15
+    endDate: 2021/11/21

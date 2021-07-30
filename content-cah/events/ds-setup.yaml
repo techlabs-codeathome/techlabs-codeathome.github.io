@@ -1,0 +1,18 @@
+---
+title: Data Science Set-up Workshop
+date: "2021-09-08T20:00:00+02:00"
+description: |
+  In our first Workshop we will show you how to set-up your development environment **R Studio** to get you started. The set-up workshop will focus on the first steps in using R for Data Science.
+
+  We **strongly recommend** to attend this session, especially if you are new to the field of data science. We really want to give you the best experience for the learning as well as the project work.
+meetings:
+  - title: "Meet: DS Set-up"
+    description: "The main room where we will meet"
+    type: meeting
+    url: https://us02web.zoom.us/j/85212974513
+showResources: true
+resources:
+  - title: R Studio Download
+    description: Please install R Studio prior to the event
+    type: link
+    url: https://www.rstudio.com/products/rstudio/download/

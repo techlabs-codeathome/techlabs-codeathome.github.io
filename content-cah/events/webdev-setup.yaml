@@ -1,0 +1,20 @@
+---
+title: WebDev Set-up Workshop
+date: "2021-09-03T20:00:00+02:00"
+description: |
+  In our first Workshop we will show you how to set-up your development environment **VS Code** to get you started. The set-up workshop will focus on the first steps in using VS Code for Web Development and will comprise basics such as the installation of useful extensions or creating a new project and files.
+
+  We **strongly recommend** to attend this session, especially if you are new to the field of programming. We really want to give you the best experience for the learning as well as the project work.
+
+  VS Code is one of many distinct development environments out there. Further development environments, e.g., IntelliJ or Eclipse, can also be used for the Bootcamp. However, VS Code is the environment used in the learning materials.
+meetings:
+  - title: "Meet: WebDev Set-up"
+    description: "The main room where we will meet"
+    type: meeting
+    url: https://us02web.zoom.us/j/81187845829
+showResources: true
+resources:
+  - title: VS Code Download
+    description: Please install VS Code prior to the event
+    type: link
+    url: https://code.visualstudio.com/download

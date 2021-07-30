@@ -1,0 +1,17 @@
+---
+title: "WebDev Live-Coding Event #1"
+date: "2021-09-22T20:00:00+02:00"
+description: |
+  Our WebDev mentor invites you to the first Web Development Live-Coding event.
+  Here, you will have the opportunity to code along with the mentor and get a first glimpse on how to start off a new coding project by applying your newly learned skills.
+
+  In the first event, the main focus will be HTML and CSS, which you should have completed in the online learning by now (25% milestone).
+
+  The resulting state will be our starting point for the second WebDev live-coding event. In case you are not able to join the first meeting, but want to participate in the consequent event, the project files will be available afterwards here.
+meetings:
+  - title: 'WebDev Live-Coding Event #1'
+    description: 'The main room where we will meet.'
+    type: meeting
+    url: https://us02web.zoom.us/j/85358178995
+showResources: false
+resources: []

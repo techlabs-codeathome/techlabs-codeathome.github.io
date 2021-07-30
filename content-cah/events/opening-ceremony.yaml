@@ -1,6 +1,6 @@
 ---
 title: Opening Ceremony
-date: '2021-09-01T19:30:00+01:00'
+date: '2021-09-02T20:00:00+02:00'
 description: |
   This is where your #codeathome Bootcamp Journey will start. We'll give you a summary on all you need to know to master the Bootcamp.
   Our topics include:
@@ -15,22 +15,6 @@ meetings:
   - title: 'Meet: Opening Ceremony'
     description: 'The main room where we will meet.'
     type: meeting
-    url: []
-  - title: 'Meet: DS'
-    description: Break-Out Room for Data Science
-    type: meeting
-    url: []
-  - title: 'Meet: AI'
-    description: Break-Out Room for AI
-    type: meeting
-    url: []
-  - title: 'Meet: WebDev'
-    description: Break-Out Room for Web Development
-    type: meeting
-    url: []
-  - title: 'Meet: UX'
-    description: Break-Out Room for UX Design
-    type: meeting
-    url: []
+    url: https://us02web.zoom.us/j/86082048586?pwd=UWl4c1ZDOCtVNGtpTmlQTnZLeWpCUT09
 forms: []
 resources: []

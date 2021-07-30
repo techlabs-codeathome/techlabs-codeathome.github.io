@@ -1,0 +1,16 @@
+---
+title: "WebDev Live-Coding Event #2"
+date: "2021-10-13T20:00:00+02:00"
+description: |
+  Our WebDev mentor invites you to the second Web Development Live-Coding event.
+
+  This second is build upon the first coding event, so we will resume where ended up last time. In addition to HTML and CSS, this event will introduce JavaScript to our project which you should have completed in the online learning by now (50% milestone).
+
+  Again, in case you are not able to join the meeting, the final project files will be available afterwards here and can be used as a reference for your project work.
+meetings:
+  - title: 'WebDev Live-Coding Event #2'
+    description: 'The main room where we will meet.'
+    type: meeting
+    url: https://us02web.zoom.us/j/87446372952
+showResources: false
+resources: []
