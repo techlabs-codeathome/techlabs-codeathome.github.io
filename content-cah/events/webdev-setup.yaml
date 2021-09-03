@@ -9,11 +9,7 @@ description: |
   We **strongly recommend** to attend this session, especially if you are new to the field of programming. We really want to give you the best experience for the learning as well as the project work.
 
   VS Code is one of many distinct development environments out there. Further development environments, e.g., IntelliJ or Eclipse, can also be used for the Bootcamp. However, VS Code is the environment used in the learning materials.
-meetings:
-  - title: "Meet: WebDev Set-up"
-    description: "The main room where we will meet"
-    type: meeting
-    url: https://us02web.zoom.us/j/81187845829
+meetings: []
 showResources: true
 resources:
   - title: VS Code Download
