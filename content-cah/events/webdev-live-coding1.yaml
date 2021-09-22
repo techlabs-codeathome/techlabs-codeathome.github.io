@@ -9,7 +9,7 @@ description: |
   In the first event, the main focus will be HTML and CSS, which you should have completed in the online learning by now (25% milestone).
 
   The resulting state will be our starting point for the second WebDev live-coding event. In case you are not able to join the first meeting, but want to participate in the consequent event, the project files will be available afterwards here.
-meetings:[]
+meetings: []
 showResources: true
 resources:
   - title: Download Materials
