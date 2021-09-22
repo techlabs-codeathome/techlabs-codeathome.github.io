@@ -9,10 +9,10 @@ description: |
   In the first event, the main focus will be HTML and CSS, which you should have completed in the online learning by now (25% milestone).
 
   The resulting state will be our starting point for the second WebDev live-coding event. In case you are not able to join the first meeting, but want to participate in the consequent event, the project files will be available afterwards here.
-meetings:
-  - title: 'WebDev Live-Coding Event #1'
-    description: 'The main room where we will meet.'
-    type: meeting
-    url: https://us02web.zoom.us/j/85358178995
-showResources: false
-resources: []
+meetings:[]
+showResources: true
+resources:
+  - title: Download Materials
+    description: Please download files as ZIP package prior to the event
+    type: link
+    url: https://github.com/christopheilenz/TechLabs-WebDev-Live-Coding
