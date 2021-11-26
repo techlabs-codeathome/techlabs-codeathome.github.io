@@ -1,13 +1,11 @@
 ---
-title: Project Registration Week
-date: '2021-10-04T19:30:00+02:00'
+title: Project Registration
+deadline: 2021-09-29T23:59:59+02:00
+type: cutoff
 description: |
-  In the course of this week, we invite you to register for the project phase with your Buddies-Group.
-  
-  **Each member of the group has to register individually!**
-forms:
-  - title: Registration Form
-    description: Please fill out the following form to complete the registration.
-    url: https://techlabsorg.typeform.com/to/dpLdXQPb
-showResources: false
-resources: []
+  If you want to complete the Bootcamp and get your certificate, you have to participate in the group project work.
+
+  To do so, we will inform you when to register for the project on **Slack**. The exact registration dates will be provided soon. 
+
+  Hint: The Project Registration Form must be submitted **once per team member**.
+todos: []
