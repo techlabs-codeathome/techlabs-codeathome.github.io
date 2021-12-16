@@ -69,7 +69,8 @@ export default defineComponent({
         <div v-else>
           <WrapperContentBox>
             <p class="prose text-center">
-              We are preparing the next term for you.<br />Stay tuned.
+              Currently, a next batch is not planned for Q1 2022.<br />
+              Stay up-to-date on our <a href="https://techlabs.org/program/remote" target="_blank">website</a>.
             </p></WrapperContentBox
           >
         </div>
